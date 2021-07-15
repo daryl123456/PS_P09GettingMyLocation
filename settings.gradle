@@ -1,0 +1,2 @@
+rootProject.name = "PS P09GettingMyLocation"
+include ':app'
